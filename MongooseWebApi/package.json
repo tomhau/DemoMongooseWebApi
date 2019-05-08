@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-web-api",
+  "version": "0.0.0",
+  "description": "MongooseWebApi",
+  "main": "server.js",
+  "author": {
+    "name": "tha"
+  },
+  "dependencies": {
+    "mongoose": "^5.0.2",
+    "express": "^4.16.2",
+    "body-parser": "^1.18.2"
+  }
+}
